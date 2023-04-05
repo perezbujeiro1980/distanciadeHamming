@@ -1,0 +1,4 @@
+C:\Users\pc\AppData\Local\Temporary Projects\DistanciaDeHamming\bin\Debug\DistanciaDeHamming.exe
+C:\Users\pc\AppData\Local\Temporary Projects\DistanciaDeHamming\bin\Debug\DistanciaDeHamming.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\DistanciaDeHamming\obj\x86\Debug\DistanciaDeHamming.exe
+C:\Users\pc\AppData\Local\Temporary Projects\DistanciaDeHamming\obj\x86\Debug\DistanciaDeHamming.pdb
